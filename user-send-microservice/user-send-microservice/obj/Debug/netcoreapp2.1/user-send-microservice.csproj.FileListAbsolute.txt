@@ -1,0 +1,11 @@
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\bin\Debug\netcoreapp2.1\user-send-microservice.deps.json
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\bin\Debug\netcoreapp2.1\user-send-microservice.runtimeconfig.json
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\bin\Debug\netcoreapp2.1\user-send-microservice.runtimeconfig.dev.json
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\bin\Debug\netcoreapp2.1\user-send-microservice.dll
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.csprojAssemblyReference.cache
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.csproj.CoreCompileInputs.cache
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.AssemblyInfoInputs.cache
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.AssemblyInfo.cs
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\bin\Debug\netcoreapp2.1\user-send-microservice.pdb
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.dll
+C:\Users\chandra.variyani\source\repos\user-send-microservice\user-send-microservice\obj\Debug\netcoreapp2.1\user-send-microservice.pdb
